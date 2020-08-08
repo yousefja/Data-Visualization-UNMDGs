@@ -3,7 +3,7 @@
  
  Thoughts on specific visualizations:
  
-   1. 'Urbanization' 
+   1. 'Urbanization' (Screenshot of Animation)
        
        This animation allows us to view the growth of urban populations around the world. It allows us to compare regions as well as specific countries. For example, we can see that the America's, Europe, and the British Commonwealth (ie Australia, New Zealand) show higher levels of urban population as a percent of the total population when compared to nations in Africa and Asia. For future visuaizations, it might be interesting to see what other UN Indicators are correlated to urban population and compare these across most and least urbanized nations/regions.
        
