@@ -3,11 +3,15 @@
  
  Thoughts on specific visualizations:
  
-   1. 'Urbanization' (Screenshot of Animation)
+   1. 'Reducing Child Mortality'
+   
+       This Tableau Dashboard provides information global trends in reduction of child mortality rates. In the upper left of the Dashboard, it can be observed that child mortality rates have declined between 1973 and 2007 across the world. With each blue dot per column representing one nation in that year, it is especially apparent in later years that the highest density of mortality rates lie between 0 and 0.05. To the right of this chart, we see that in 2007, the global child mortality rates are quite low, with the exception of some nations in sub-saharan Africa. In trying to understand what might be affecting some of these difficulties, we can use (with caution) the Pearson correlation analysis below, demonstrating some UN Indicators with a high correlation (not causation) to child mortality rates.
+ 
+   2. 'Urbanization' (Screenshot of Animation)
        
        This animation allows us to view the growth of urban populations around the world. It allows us to compare regions as well as specific countries. For example, we can see that the America's, Europe, and the British Commonwealth (ie Australia, New Zealand) show higher levels of urban population as a percent of the total population when compared to nations in Africa and Asia. For future visuaizations, it might be interesting to see what other UN Indicators are correlated to urban population and compare these across most and least urbanized nations/regions.
        
-   2. 'Tracking GDP Over Time'
+   3. 'Tracking GDP Over Time'
        
        CAUTION: This line graph shows the growth in GDP among the 15 highest GDP nations. This should not be considered a measure of the wealthiest nations in the world as GDP has flaws as a metric in this case (https://ethical.net/politics/gdp-alternatives-7-ways-to-measure-countries-wealth/)
        
